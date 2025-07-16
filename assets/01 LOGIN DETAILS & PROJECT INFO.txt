@@ -1,0 +1,11 @@
+**Database Name: hrsystemci**
+
+**Developed by Manin Software / Codelulu Solutions**
+
+**Recommended PHP Version 5.6 **
+
+
+**Admin Login Details** 
+
+Email   : manin@mail.com
+Password: Password@123
